@@ -6,6 +6,11 @@ This repository is used as the release target for automated WinNative CI builds.
 
 GitHub Actions from the main WinNative repository publish APK builds here so each pull request can have a dedicated release page with attached artifacts.
 
+## Documentation
+
+- [Agents Guide](file:///E:/workspace/StudioProjects/WinNative-CI/agents.MD): Learn about the automated CI and AI agents managing this repo.
+- [Architecture](file:///E:/workspace/StudioProjects/WinNative-CI/ARCHITECTURE.md): Understanding the relationship with the main source repository.
+
 ## What You Will Find Here
 
 - Prerelease entries for active pull requests
@@ -21,3 +26,7 @@ GitHub Actions from the main WinNative repository publish APK builds here so eac
 ## Source Repository
 
 Source changes are developed in the main WinNative repository and mirrored here as CI release artifacts.
+
+---
+
+*Last Updated: 2026-07-31*
